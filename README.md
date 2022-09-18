@@ -1,4 +1,6 @@
-# This is a pretty basic application made as personal project to 'help kids learn' (I don't care about other kids' education, I just wanna code)
+# Pi: An educational software.
+
+This is a pretty basic application made as personal project to 'help kids learn' (I don't care about other kids' education, I just wanna code)
 
 If you're seeing this, you're probably pretty bored.
 Here is a paragraph that I made [https://copy.ai] write for me:
